@@ -81,8 +81,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 ## STM 32 CUBE PROGRAM :
 
 ```
-Developed by: Manoj Kumar S
-Reg No: 212221230056
+Developed by: Mothesh M
+Reg No: 212221230066
 ```
 ```
 #include "main.h"
